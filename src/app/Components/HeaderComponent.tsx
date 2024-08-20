@@ -11,7 +11,7 @@ const HeaderComponent = () => {
         <p className='text-[34px] text-[#ffc300]'>Software Engineer based in California</p>
       </div>
 
-      <div className='bg-white w-fit h-fit'>
+      <div className='bg-white  w-fit h-fit'>
         <Image src={Test} alt='Marcos Headshot' className='h-[150px] w-[150px] rounded-[100px]' />
       </div>
     </div>
